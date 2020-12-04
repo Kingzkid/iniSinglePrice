@@ -111,6 +111,10 @@ ul li{
     border-radius:5px;
     width: 235px;
 }
+.btn:hover{
+    box-shadow: 2px 2px 2px 2px black;
+    color:blue;
+}
 #price{
     font-size: 26px;
     font-weight:700;
